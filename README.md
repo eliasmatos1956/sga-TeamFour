@@ -14,7 +14,7 @@ Proyecto desarrollado con Scrum usando Django 5.1 y GitHub Projects.
 
 - Josue Nehemias
 - Elias Matos
-- Integrante 3
+- Roy Tornero Rojas
 - Integrante 4
 
 ## Instalación
